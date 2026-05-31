@@ -1,4 +1,4 @@
-HabitFlow - Frontend
+HabitFlow - Frontend #
 HabitFlow is a premium, beautifully designed habit tracking suite that goes beyond simple checkboxes. It connects your daily routines to your overall energy levels, helping you design your perfect day. This directory contains the React (Vite) frontend application.
 
 🌟 Cool Features & Technical Highlights
